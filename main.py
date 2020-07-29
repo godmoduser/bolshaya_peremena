@@ -13,7 +13,7 @@ try:
     import pygame
     from pygame.locals import *
     import pygame.freetype as freetype
-    1/0
+    
 except:
     try:
         import tkinter
